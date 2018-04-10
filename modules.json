@@ -1,5 +1,6 @@
 {
   "Foundation.Grid": {
-    "url": "deepend-melbourne/sitecore-helix-foundation-grid"
+    "url": "deepend-melbourne/sitecore-helix-foundation-grid",
+    "layer": "Foundation"
   }
 }
