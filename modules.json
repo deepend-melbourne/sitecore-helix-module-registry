@@ -7,7 +7,12 @@
   "Feature.Blog": {
     "url": "deepend-melbourne/sitecore-helix-feature-blog",
     "layer": "Feature",
-    "name": "Blog"
+    "name": "Blog",
+    "dependencies": [
+      "Foundation.Indexing",
+      "Foundation.Models",
+      "Foundation.SitecoreExtensions"
+    ]
   },
   "Feature.Blocks": {
     "url": "deepend-melbourne/sitecore-helix-feature-blocks",
