@@ -3,5 +3,15 @@
     "url": "deepend-melbourne/sitecore-helix-foundation-grid",
     "layer": "Foundation",
     "name": "Grid"
+  },
+  "Feature.Blog": {
+    "url": "deepend-melbourne/sitecore-helix-feature-blog",
+    "layer": "Feature",
+    "name": "Blog"
+  },
+  "Feature.Blocks": {
+    "url": "deepend-melbourne/sitecore-helix-feature-blocks",
+    "layer": "Feature",
+    "name": "Blocks"
   }
 }
