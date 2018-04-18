@@ -4,6 +4,11 @@
     "layer": "Foundation",
     "name": "Grid"
   },
+  "Foundation.Analytics": {
+    "url": "deepend-melbourne/sitecore-helix-foundation-analytics",
+    "layer": "Foundation",
+    "name": "Analytics"
+  },
   "Feature.Blog": {
     "url": "deepend-melbourne/sitecore-helix-feature-blog",
     "layer": "Feature",
