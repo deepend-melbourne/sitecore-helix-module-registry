@@ -23,5 +23,13 @@
     "url": "deepend-melbourne/sitecore-helix-feature-blocks",
     "layer": "Feature",
     "name": "Blocks"
+  },
+  "Feature.Redirects": {
+    "url": "deepend-melbourne/sitecore-helix-feature-redirects",
+    "layer": "Feature",
+    "name": "Redirects",
+    "dependencies": [
+      "Foundation.SitecoreExtensions"
+    ]
   }
 }
