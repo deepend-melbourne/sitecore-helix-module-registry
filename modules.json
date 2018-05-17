@@ -2,7 +2,7 @@
   "Foundation.SitecoreExtensions": {
     "url": "deepend-melbourne/sitecore-helix-foundation-sitecoreextensions",
     "layer": "Foundation",
-    "name": "Grid"
+    "name": "SitecoreExtensions"
   },
   "Foundation.Grid": {
     "url": "deepend-melbourne/sitecore-helix-foundation-grid",
