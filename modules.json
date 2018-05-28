@@ -14,7 +14,7 @@
     "layer": "Foundation",
     "name": "Analytics"
   },
-  "Feature.Tags": {
+  "Foundation.Tags": {
     "url": "deepend-melbourne/sitecore-helix-foundation-tags",
     "layer": "Foundation",
     "name": "Tags",
