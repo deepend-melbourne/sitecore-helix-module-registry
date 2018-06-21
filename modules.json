@@ -44,5 +44,13 @@
     "dependencies": [
       "Foundation.SitecoreExtensions"
     ]
+  },
+  "Feature.Identity": {
+    "url": "deepend-melbourne/sitecore-helix-feature-identity",
+    "layer": "Feature",
+    "name": "Identity",
+    "dependencies": [
+      "Foundation.SitecoreExtensions"
+    ]
   }
 }
