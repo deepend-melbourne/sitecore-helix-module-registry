@@ -9,48 +9,29 @@
     "layer": "Foundation",
     "name": "Grid"
   },
+  "Foundation.DependencyInjection": {
+    "url": "deepend-melbourne/sitecore-helix-foundation-dependencyinjection",
+    "layer": "Foundation",
+    "name": "DependencyInjection"
+  },
+  "Foundation.Dictionary": {
+    "url": "deepend-melbourne/sitecore-helix-foundation-dictionary",
+    "layer": "Foundation",
+    "name": "Dictionary"
+  },
+  "Foundation.Indexing": {
+    "url": "deepend-melbourne/sitecore-helix-foundation-indexing",
+    "layer": "Foundation",
+    "name": "Indexing"
+  },
+  "Foundation.Serialization": {
+    "url": "deepend-melbourne/sitecore-helix-foundation-serialization",
+    "layer": "Foundation",
+    "name": "Serialization"
+  },
   "Foundation.Analytics": {
     "url": "deepend-melbourne/sitecore-helix-foundation-analytics",
     "layer": "Foundation",
     "name": "Analytics"
-  },
-  "Foundation.Tags": {
-    "url": "deepend-melbourne/sitecore-helix-foundation-tags",
-    "layer": "Foundation",
-    "name": "Tags",
-    "dependencies": [
-      "Foundation.SitecoreExtensions"
-    ]
-  },
-  "Feature.Blog": {
-    "url": "deepend-melbourne/sitecore-helix-feature-blog",
-    "layer": "Feature",
-    "name": "Blog",
-    "dependencies": [
-      "Foundation.Indexing",
-      "Foundation.Models",
-      "Foundation.SitecoreExtensions"
-    ]
-  },
-  "Feature.Blocks": {
-    "url": "deepend-melbourne/sitecore-helix-feature-blocks",
-    "layer": "Feature",
-    "name": "Blocks"
-  },
-  "Feature.Redirects": {
-    "url": "deepend-melbourne/sitecore-helix-feature-redirects",
-    "layer": "Feature",
-    "name": "Redirects",
-    "dependencies": [
-      "Foundation.SitecoreExtensions"
-    ]
-  },
-  "Feature.Identity": {
-    "url": "deepend-melbourne/sitecore-helix-feature-identity",
-    "layer": "Feature",
-    "name": "Identity",
-    "dependencies": [
-      "Foundation.SitecoreExtensions"
-    ]
   }
 }
