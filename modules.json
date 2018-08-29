@@ -33,5 +33,10 @@
     "url": "deepend-melbourne/sitecore-helix-foundation-analytics",
     "layer": "Foundation",
     "name": "Analytics"
+  },
+  "Foundation.Multisite": {
+    "url": "deepend-melbourne/sitecore-helix-foundation-multisite",
+    "layer": "Foundation",
+    "name": "Multisite"
   }
 }
