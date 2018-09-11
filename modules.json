@@ -43,5 +43,10 @@
     "url": "deepend-melbourne/sitecore-helix-foundation-models",
     "layer": "Foundation",
     "name": "Models"
+  },
+  "Foundation.ElmahIo": {
+    "url": "deepend-melbourne/sitecore-helix-foundation-elmahio",
+    "layer": "Foundation",
+    "name": "ElmahIo"
   }
 }
