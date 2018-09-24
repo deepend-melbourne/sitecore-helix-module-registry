@@ -48,5 +48,10 @@
     "url": "deepend-melbourne/sitecore-helix-foundation-elmahio",
     "layer": "Foundation",
     "name": "ElmahIo"
+  },
+  "Foundation.CustomFields": {
+    "url": "deepend-melbourne/sitecore-helix-foundation-customfields",
+    "layer": "Foundation",
+    "name": "CustomFields"
   }
 }
