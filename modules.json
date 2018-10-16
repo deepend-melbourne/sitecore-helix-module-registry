@@ -53,5 +53,10 @@
     "url": "deepend-melbourne/sitecore-helix-foundation-customfields",
     "layer": "Foundation",
     "name": "CustomFields"
+  },
+  "Foundation.BranchPresets": {
+    "url": "deepend-melbourne/sitecore-helix-foundation-branchpresets",
+    "layer": "Foundation",
+    "name": "BranchPresets"
   }
 }
