@@ -58,5 +58,10 @@
     "url": "deepend-melbourne/sitecore-helix-foundation-branchpresets",
     "layer": "Foundation",
     "name": "BranchPresets"
+  },
+  "Foundation.LocalDatasource": {
+    "url": "deepend-melbourne/sitecore-helix-foundation-localdatasource",
+    "layer": "Foundation",
+    "name": "LocalDatasource"
   }
 }
