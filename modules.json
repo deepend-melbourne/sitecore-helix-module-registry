@@ -63,5 +63,10 @@
     "url": "deepend-melbourne/sitecore-helix-foundation-localdatasource",
     "layer": "Foundation",
     "name": "LocalDatasource"
+  },
+  "Foundation.Tags": {
+    "url": "deepend-melbourne/sitecore-helix-foundation-tags",
+    "layer": "Foundation",
+    "name": "Tags"
   }
 }
