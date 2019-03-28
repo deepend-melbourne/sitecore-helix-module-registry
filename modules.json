@@ -68,5 +68,10 @@
     "url": "deepend-melbourne/sitecore-helix-foundation-tags",
     "layer": "Foundation",
     "name": "Tags"
+  },
+  "Feature.Redirects": {
+    "url": "deepend-melbourne/sitecore-helix-feature-redirects",
+    "layer": "Feature",
+    "name": "Redirects"
   }
 }
